@@ -8,3 +8,9 @@ V2 - together with V3 files is the newest and best variation of the design. Adde
 V3 - not really a V3, just some minor improvements added to some of V2 parts.
 
 IMPORTANT - print V3 files, if there isn't a V3 for your file, print the V2, and if there is no V2, print the original.
+
+
+Models by other people, that I usd in my design:
+
+For fan grill - https://www.thingiverse.com/thing:3201669/files
+For usb logo - https://www.thingiverse.com/thing:1050217/files
