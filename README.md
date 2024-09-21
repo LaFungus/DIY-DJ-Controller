@@ -14,3 +14,4 @@ Models by other people, that I usd in my design:
 
 For fan grill - https://www.thingiverse.com/thing:3201669/files
 For usb logo - https://www.thingiverse.com/thing:1050217/files
+For rca jacks - https://www.thingiverse.com/thing:1830650/files
